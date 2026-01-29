@@ -1,0 +1,26 @@
+# Windows Server Installation
+
+## Step 1: Create Virtual Machine
+- Name: WindowsServer-Lab
+- Type: Microsoft Windows
+- Version: Windows 2019 (64-bit)
+- Memory: 2048 MB
+- CPU: 1 core
+
+## Step 2: Attach ISO
+- Attached Windows Server ISO to optical drive
+- Booted VM
+
+## Step 3: Installation Options
+- Edition: Windows Server Standard (Desktop Experience)
+- Installation type: Custom
+- Disk: 50 GB unallocated space
+
+## Step 4: Administrator Setup
+- Set Administrator password to WinServer1
+- Logged in successfully
+
+## Result
+Windows Server installed and accessible via console.
+
+📸 Screenshot: `screenshots/server-install.png`
